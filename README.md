@@ -59,7 +59,7 @@ cd Survey-forms
 
 - **Image Pathing:** Managing correct relative paths to display assets accurately within the document.
 - **Form Tag Nuances:** Mastering semantic HTML5 structure, specifically binding `<label>` and `<input>` tags using the `for` attribute.
-- **Code Architecture:** Organizing CSS stylesheets efficiently to avoid redundancy and maintain clean code.
+- **Code Architecture:** Organizing CSS style sheets efficiently to avoid redundancy and maintain clean code.
 
 ---
 
