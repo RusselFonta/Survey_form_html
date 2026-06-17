@@ -35,7 +35,7 @@ How to build a structured and user-friendly interface to effectively collect ove
 
 ## 📷 Screenshots
 
-![Project Screenshot](asset/image/Pasted%20image.png)
+![Project Screenshot](asset/image/survey_picture.png)
 
 ---
 
@@ -48,9 +48,10 @@ To clone and run this project locally, execute the following commands in your te
 git clone https://github.com/RusselFonta/Survey_form_html.git
 
 # Navigate into the project directory
-cd Survey-forms
+cd Survey_form_html
 
-# Open the index.html file in your preferred browser
+# witch Branches (Optional)
+ git checkout feature/survey_form_html
 ```
 
 ---
