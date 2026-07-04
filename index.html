@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>freeCodeCamp survey form</title>
         <link rel="stylesheet" href="style.css"/>
     </head>
@@ -9,7 +10,7 @@
         <div class="formbox">
             <header>
                 <h1 id="title">freeCodeCamp survey form</h1>
-                <p id="subtitle"><i>thanks you for taking the time to help us improve the platform</i></p>
+                <p id="subtitle"><i>thank you for taking the time to help us improve the platform</i></p>
             </header>
             <form action="#" method="post">
                 <label for="name">Name</label>
@@ -25,8 +26,8 @@
     <input type="number" id="age" placeholder="enter your age" name="userAge"/>
 <br/>
 <br/>
-<label for="dropdown" name="role" >Which option best describes your current role</label>
-<select id="dropdown">
+<label for="dropdown" >Which option best describes your current role</label>
+<select id="dropdown" name="role">
     <option value="student">student</option>
     <option value="teacher">teacher</option>
     <option value="parent">parent</option>
@@ -34,7 +35,7 @@
 <br/>
 <br/>
 <fieldset>
-<legend>Would you recommed freeCodeCamp to a friend.</legend>
+<legend>Would you recommend freeCodeCamp to a friend.</legend>
 <label>
 <input type="radio" name="recommend" value="definitely" >definitely
 </label>
