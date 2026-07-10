@@ -50,7 +50,7 @@ git clone https://github.com/RusselFonta/Survey_form_html.git
 # Navigate into the project directory
 cd Survey_form_html
 
-# witch Branches (Optional)
+# Switch Branches to feature/survey_form_html if your are on the main branche
  git checkout feature/survey_form_html
 ```
 
