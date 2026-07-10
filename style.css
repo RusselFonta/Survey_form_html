@@ -8,7 +8,7 @@ body {
   background-position: center;
   background-image:
     linear-gradient(rgb(75 0 130 / 60%)),
-    url("asset/image/Pasted image (4).png");
+  url("asset/image/original_survey_img.png");
 }
 
 form {
